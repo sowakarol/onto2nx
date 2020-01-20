@@ -26,6 +26,7 @@ INSTALL_REQUIRES = [
     'rdflib==4.2.1',
     'rdflib-jsonld',
     'requests',
+    'ontospy',
     'requests_file',
     'SPARQLWrapper',
     'click',
